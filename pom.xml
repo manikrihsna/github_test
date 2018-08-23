@@ -4,7 +4,7 @@
 
   <groupId>com.company.myapp</groupId>
   <artifactId>myapp</artifactId>
-  <version>1.1</version>
+  <version>1.2</version>
   <packaging>jar</packaging>
 
   <name>myapp</name>
